@@ -1,0 +1,6 @@
+rule "second test rule"
+    when
+    
+    then
+        System.out.println("test second rule!");
+end
