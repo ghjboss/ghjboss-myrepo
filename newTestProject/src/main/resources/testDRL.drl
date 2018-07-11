@@ -1,6 +1,0 @@
-rule "testnewrule"
-   when
-   
-   then
-       System.out.println("test new rule 1.0");
-end
